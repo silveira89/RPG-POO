@@ -1,0 +1,15 @@
+C:\Users\alasa\OneDrive - Programa de Engenharia Civil da COPPE UFRJ\Codes\C#\DIO\GFT\RPG-POO\bin\Debug\net6.0\RPG-POO.exe
+C:\Users\alasa\OneDrive - Programa de Engenharia Civil da COPPE UFRJ\Codes\C#\DIO\GFT\RPG-POO\bin\Debug\net6.0\RPG-POO.deps.json
+C:\Users\alasa\OneDrive - Programa de Engenharia Civil da COPPE UFRJ\Codes\C#\DIO\GFT\RPG-POO\bin\Debug\net6.0\RPG-POO.runtimeconfig.json
+C:\Users\alasa\OneDrive - Programa de Engenharia Civil da COPPE UFRJ\Codes\C#\DIO\GFT\RPG-POO\bin\Debug\net6.0\RPG-POO.dll
+C:\Users\alasa\OneDrive - Programa de Engenharia Civil da COPPE UFRJ\Codes\C#\DIO\GFT\RPG-POO\bin\Debug\net6.0\ref\RPG-POO.dll
+C:\Users\alasa\OneDrive - Programa de Engenharia Civil da COPPE UFRJ\Codes\C#\DIO\GFT\RPG-POO\bin\Debug\net6.0\RPG-POO.pdb
+C:\Users\alasa\OneDrive - Programa de Engenharia Civil da COPPE UFRJ\Codes\C#\DIO\GFT\RPG-POO\obj\Debug\net6.0\RPG-POO.csproj.AssemblyReference.cache
+C:\Users\alasa\OneDrive - Programa de Engenharia Civil da COPPE UFRJ\Codes\C#\DIO\GFT\RPG-POO\obj\Debug\net6.0\RPG-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alasa\OneDrive - Programa de Engenharia Civil da COPPE UFRJ\Codes\C#\DIO\GFT\RPG-POO\obj\Debug\net6.0\RPG-POO.AssemblyInfoInputs.cache
+C:\Users\alasa\OneDrive - Programa de Engenharia Civil da COPPE UFRJ\Codes\C#\DIO\GFT\RPG-POO\obj\Debug\net6.0\RPG-POO.AssemblyInfo.cs
+C:\Users\alasa\OneDrive - Programa de Engenharia Civil da COPPE UFRJ\Codes\C#\DIO\GFT\RPG-POO\obj\Debug\net6.0\RPG-POO.csproj.CoreCompileInputs.cache
+C:\Users\alasa\OneDrive - Programa de Engenharia Civil da COPPE UFRJ\Codes\C#\DIO\GFT\RPG-POO\obj\Debug\net6.0\RPG-POO.dll
+C:\Users\alasa\OneDrive - Programa de Engenharia Civil da COPPE UFRJ\Codes\C#\DIO\GFT\RPG-POO\obj\Debug\net6.0\ref\RPG-POO.dll
+C:\Users\alasa\OneDrive - Programa de Engenharia Civil da COPPE UFRJ\Codes\C#\DIO\GFT\RPG-POO\obj\Debug\net6.0\RPG-POO.pdb
+C:\Users\alasa\OneDrive - Programa de Engenharia Civil da COPPE UFRJ\Codes\C#\DIO\GFT\RPG-POO\obj\Debug\net6.0\RPG-POO.genruntimeconfig.cache
